@@ -12,7 +12,7 @@ List of Innovations
 10-	Carbon-Fiber Reinforced Biocomposite Polymer            --> Proprietary, Biodegradable Resin for High-Performance Engineering
 11- Agronomic Urban Boundary (AUB) Networks                 --> Open-Source, Climate Change Mitigation Concept Idea
 
-Total: 12 Models, 1 Dataset, 3 Frameworks, 3 Products, and 1 Vision for a sustainable and self-sufficient life support system.
+Total: 12 Models, 1 Dataset, 3 Frameworks, 3 Products, and 1 Vision in progress for large-scale climate action.
 
 
 

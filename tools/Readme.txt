@@ -1,18 +1,18 @@
 List of Innovations 
 
-01-	Ground Cover Change Model                               --> Open-Source, Sustainable and Resilient Development Modeling System
-02-	Finecast Model                                          --> Open-Source, Sustainable and Resilient Development Modeling System
-03-	Operational Land Use and Transport Microsimulation Model--> Open-Source, Sustainable and Resilient Development Modeling System 
-04-	Data Cube                                               --> Proprietary, Database for Input/Output Modeling
-05-	Assisted Neighborhood and Housing Design Framework      --> Open-Source, Settlement and Self-Help Housing Design Program
-06- Modular Construction System and Resilience Framework    --> Proprietary, Mutual-Help Housing Reconstruction System
-07-	Neighborhood Cooperatives' Economic Recovery Framework  --> Open-Source, Sustainable Livelihood Development Program
-08-	Smart Home Panel                                        --> Proprietary, Health & Government Survey System
-09-	Solar-Powered Electromagnetic Generator                 --> Proprietary, Renewable Energy System 
-10-	Carbon-Fiber Reinforced Biocomposite Polymer            --> Proprietary, Biodegradable Resin for High-Performance Engineering
-11- Agronomic Urban Boundary (AUB) Networks                 --> Open-Source, Climate Change Mitigation Concept Idea
+01-	Ground Cover Change Model                               --> 1 Model, automation in progress, Regional Earth System Science Model
+02-	Finecast Model                                          --> 2 Models, Queued, Fine-Grainted Population Modeling System
+03-	Operational Land Use and Transport Microsimulation Model--> 10 Models, Queued, Sustainable Rural Development Modeling System 
+04-	Data Cube                                               --> Database, Queued, Input/Output Data Warehouse
+05-	Assisted Neighborhood and Housing Design Framework      --> One United Recovery, Untested, Community-Driven Planning and Design
+06- Modular Construction System and Resilience Framework    --> One United Recovery, Simulated, Mutual Help Housing Reconstruction Process
+07-	Neighborhood Cooperatives' Economic Recovery Framework  --> One United Recovery, Tested, Livelihood Recovery and Development Program
+08-	Smart Home Panel                                        --> Product, Energy, Health, and Feedback Monitoring System for Local Gov.
+09-	Solar-Powered Electromagnetic Generator                 --> Product, Renewable Energy System 
+10-	Carbon-Fiber Reinforced Biocomposite Polymer            --> Product, Biodegradable Resin for High-Performance Engineering
+11- Agronomic Urban Boundary (AUB) Networks                 --> Concept Image, Regional Climate Change Mitigation Approach
 
-Total: 12 Models, 1 Dataset, 3 Frameworks, 3 Products, and 1 Vision in progress for large-scale climate action.
+Total: 13 Models, 1 Database, 3 Frameworks, 3 Products, and 1 Concept Image for Regional Climate Change Mitigation.
 
 
 
